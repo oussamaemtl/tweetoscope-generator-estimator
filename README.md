@@ -1,2 +1,4 @@
-# tweetoscope-generator-estimator
-This repo is a C++ program that generates tweets and try to estimate their popularities using Hawkes process
+# tweetoscopeProject
+We will analyze tweets in order to make some prediction. We will use Docker, Kafka and Kubernetes to make our solution scalable.
+
+PROJECT IS CURRENTLY IN PROGRESS
